@@ -50,7 +50,6 @@
                 font-weight: bold;
             }
         </style>
-        <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
         <script>
             MathJax = {
                 tex: {
@@ -62,6 +61,7 @@
                 }
             };
         </script>
+        <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
     </head>
     <!-- bodyタグの中身だけを編集すること -->
     <body>
@@ -123,7 +123,7 @@
 * 与えられた画像の内容を、くまなくすべて抽出して読み込んでください。
 * 解像度が低くて文字が読み取れない場合でも、努力してください。
 * 「HTMLファイルのテンプレート」をもとにして新しくHTML形式のテキストファイルを作成してください。
-* 「ページのタイトル」の部分を埋めてください。
+* 「ページのタイトル」と「生成AIのモデル名」の部分を埋めてください。
 
 # タスク２
 * あなたは、タスク１で読み込んだ問題の「解答」のみを作成します。その解答の根拠や導出の過程は必要ありません。
