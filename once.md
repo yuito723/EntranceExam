@@ -26,7 +26,7 @@
 # HTMLファイルのテンプレート
 <!DOCTYPE html>
 <html lang="ja">
-    <!-- headタグの中身は絶対に編集しないこと -->
+    <!-- headタグの中身はタイトルタグを除いて絶対に編集しないこと -->
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
